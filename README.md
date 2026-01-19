@@ -1,5 +1,4 @@
 # FLiT_Faini_et_al
-FLiT
 Here I provide some basic MATLAB codes to implement FLiT stimulation protocols, as described in Faini et al. (https://www.nature.com/articles/s41467-023-37416-w) . This simplified version of the script allows to control and syncronize the galvomirror and laser power attenuator, to implement the essentials calibrations, define stimulation parameters and pipelines and run stimulation events.
 
 Specifically, the two main scripts are:
